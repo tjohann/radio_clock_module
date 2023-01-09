@@ -20,7 +20,7 @@ Overview:
 State
 -----
 
-WARNING: This is work in progress! Don't expect things to be complete in any dimension. Possible states are open, described, in_development, testing, works, released.
+**WARNING**: This is work in progress! Don't expect things to be complete in any dimension. Possible states are open, described, in_development, testing, works, released.
 
 	raspi-base-board -> open
 	avr-board -> open
