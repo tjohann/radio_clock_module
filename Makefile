@@ -4,7 +4,7 @@
 
 MODULES = pics Documentation schematics
 MODULES_BUILD = src
-MODULES_EXTRA = 
+MODULES_EXTRA =
 
 all::
 	@echo "+-----------------------------------------------------------+"

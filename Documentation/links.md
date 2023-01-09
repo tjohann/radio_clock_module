@@ -4,8 +4,8 @@ Collection of useful links around the used technologies
 Note: some links are in for german readers
 
 
-Raspi 2 and common rpi topics
------------------------------
+Raspi topics
+-------------
 
 - boot from USB ssd: https://www.tomshardware.com/how-to/boot-raspberry-pi-4-usb
 - gpio for raspi: https://www.elektronik-kompendium.de/sites/raspberry-pi/2006031.htm

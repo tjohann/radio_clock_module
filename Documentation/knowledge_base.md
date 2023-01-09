@@ -50,7 +50,7 @@ RTC (real time clock) module
 
 The Raspi does not have a RTC on the board. So we need a static network connection. In my images, the ntp client is already activated, but direct after a reboot it takes some time to get the actual time. During this period all date values are wrong (stand on UNIX time, see https://de.wikipedia.org/wiki/Unixzeit).
 
-I add the module like https://www.elecrow.com/wiki/index.php?title=Tiny_RTC to the board. To use it with an raspberry you have to manually to some changes. There`re a lot of descriptions in the www, here`s an really good example: http://www.netzmafia.de/skripten/hardware/RasPi/Projekt-RTC/index.html .
+I add the module like https://www.elecrow.com/wiki/index.php?title=Tiny_RTC to the board. To use it with an raspberry you have to manually to some changes. There\`re a lot of descriptions in the www, here`s an really good example: http://www.netzmafia.de/skripten/hardware/RasPi/Projekt-RTC/index.html .
 
 A least there`re 2 changes needed:
 
